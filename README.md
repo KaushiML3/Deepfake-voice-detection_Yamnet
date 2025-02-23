@@ -64,8 +64,8 @@ Best Model Achieved: ANN with 97% accuracy
 
 1.Clone the repository:
 ```python
-git clone https://github.com/your-username/Numerical-Audio-Authentication-System.git
-cd Numerical-Audio-Authentication-System
+git clone https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet.git
+cd Deepfake-voice-detection_Yamnet
 ```
 
 2.Install dependencies:
