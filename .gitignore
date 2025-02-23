@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+cnn_human_or_bot/
+.cnn_human_or_bot
+cnn_model.keras/
+.cnn_model.keras
+*.keras
 # Distribution / packaging
 .Python
 build/

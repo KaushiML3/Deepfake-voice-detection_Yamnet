@@ -1,0 +1,14 @@
+tensorflow
+keras
+#transformers==4.48.3
+scikit-learn
+#torch==2.5.1
+
+numpy
+pandas
+librosa
+tensorflow_hub
+
+fastapi
+uvicorn
+python-multipart
