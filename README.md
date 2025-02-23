@@ -18,8 +18,8 @@ This repository contains a machine learning-based system to detect deepfake (syn
     1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/ann%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
     2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/ann%20c.png)
-                    precision    recall  f1-score   support
-
+  
+                        precision    recall  f1-score   support
                 fake       0.97      0.95      0.96       446
                 real       0.96      0.98      0.97       554
 
@@ -33,8 +33,8 @@ This repository contains a machine learning-based system to detect deepfake (syn
     1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/cnn%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
     2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/cnn%20c.png)
-        precision    recall  f1-score   support
-
+  
+                        precision    recall  f1-score   support
                 fake       0.97      0.96      0.97       446
                 real       0.97      0.97      0.97       554
 
@@ -48,8 +48,8 @@ This repository contains a machine learning-based system to detect deepfake (syn
     1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/rnn%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
     2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/rnn%20c.png)
-        precision    recall  f1-score   support
-
+  
+                        precision    recall  f1-score   support
                 fake       0.94      0.93      0.94       446
                 real       0.94      0.95      0.95       554
 
