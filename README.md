@@ -8,8 +8,8 @@ This repository contains a machine learning-based system to detect deepfake (syn
 - Deep Learning Models: Implements ANN, CNN, and RNN architectures for classification.
 - Training & Evaluation: Trains models with labeled datasets and evaluates accuracy.
 - Inference API: Provides an API to classify input audio as real or deepfake.
-    1. ![image]()
-    2. ![image]()
+    1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/Screenshot%20(97).png)
+    2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/Screenshot%20(98).png)
 
 # Model Performance
 
