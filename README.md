@@ -15,49 +15,49 @@ This repository contains a machine learning-based system to detect deepfake (syn
 
 1. ANN model atchitecture
 - Model training stat: Accuracy and Val_lose
-- ![image]()
+    1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/ann%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
-- ![image]()
+    2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/ann%20c.png)
                     precision    recall  f1-score   support
 
                 fake       0.97      0.95      0.96       446
                 real       0.96      0.98      0.97       554
 
             accuracy                           0.97      1000
-        macro avg       0.97      0.97      0.97      1000
+           macro avg       0.97      0.97      0.97      1000
         weighted avg       0.97      0.97      0.97      1000
 
 
 2. CNN model atchitecture
 - Model training stat: Accuracy and Val_lose
-- ![image]()
+    1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/cnn%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
-- ![image]()
+    2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/cnn%20c.png)
         precision    recall  f1-score   support
 
                 fake       0.97      0.96      0.97       446
                 real       0.97      0.97      0.97       554
 
             accuracy                           0.97      1000
-        macro avg       0.97      0.97      0.97      1000
+           macro avg       0.97      0.97      0.97      1000
         weighted avg       0.97      0.97      0.97      1000
 
 
 3. RNN model atchitecture
 - Model training stat: Accuracy and Val_lose
-- ![image]()
+    1. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/rnn%20s.png)
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
-- ![image]()
+    2. ![image](https://github.com/KaushiML3/Deepfake-voice-detection_Yamnet/blob/main/src_img/rnn%20c.png)
         precision    recall  f1-score   support
 
                 fake       0.94      0.93      0.94       446
                 real       0.94      0.95      0.95       554
 
             accuracy                           0.94      1000
-        macro avg       0.94      0.94      0.94      1000
+           macro avg       0.94      0.94      0.94      1000
         weighted avg       0.94      0.94      0.94      1000
 
-Best Model Achieved: CNN with 97% accuracy
+Best Model Achieved: ANN with 97% accuracy
 
 
 # 🛠️ Setup & Installation
